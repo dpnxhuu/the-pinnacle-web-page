@@ -20,7 +20,7 @@ The page showcases:
 ## Built With
 
 - HTML5
-- CSS3
+- TailwindCSS
 - JavaScript
 
 ---
