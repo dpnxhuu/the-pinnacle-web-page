@@ -20,3 +20,4 @@ mIconMenuBar.addEventListener("click", () => {
     menuIcon.style.transform = "rotate(0deg)";
   }
 });
+
